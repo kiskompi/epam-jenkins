@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/home/andris/Documents/egyetem/software-test-automatization/TestAutomation-master/webdriver_ui_testing/java/source/2018_autumn_uni"/>
+		<item value="/home/andris/Documents/egyetem/software-test-automatization/TestAutomation-master/test-backend"/>
+	</list>
+</section>
