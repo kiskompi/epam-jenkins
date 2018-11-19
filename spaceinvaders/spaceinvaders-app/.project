@@ -3,6 +3,8 @@
 	<name>spaceinvaders-app</name>
 	<comment></comment>
 	<projects>
+		<project>spaceinvaders</project>
+		<project>spaceinvaders-sprites</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
